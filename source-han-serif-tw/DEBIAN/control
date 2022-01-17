@@ -1,0 +1,9 @@
+Package: source-han-serif-tw
+Version: 2.000
+Architecture: all
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Provides: source-han-serif-tw
+Section: fonts
+Priority: optional
+Homepage: https://github.com/adobe-fonts/source-han-serif
+Description: Source Han Serif is a set of OpenType/CFF Pan-CJK fonts. This package provides traditional Chinese version of Source Han Serif.
